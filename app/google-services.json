@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869132616981",
+    "project_id": "encargalo-268d4",
+    "storage_bucket": "encargalo-268d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869132616981:android:dff11b6c8d905c5b74551c",
+        "android_client_info": {
+          "package_name": "mx.com.encargalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869132616981-v7gms838fme64hfud43s6sconqee4t8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgTB4wH2vYgkQnA4ob8DQqIs54_DQStss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869132616981-v7gms838fme64hfud43s6sconqee4t8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
